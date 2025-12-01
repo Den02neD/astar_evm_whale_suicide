@@ -1,0 +1,2 @@
+# astar_evm_whale_suicide
+astar_evm_whale_suicide
